@@ -1,4 +1,4 @@
-using System.ComponentModel.DataAnnotations;
+
 using System.Text.Json.Serialization;
 
 namespace LittleTeti.Models;
@@ -14,6 +14,6 @@ public class User
     public DateTime CreatedAt { get; set; }
     public DateTime UpdatedAt { get; set; }
     public Addres Addres { get; set; }
-
-    public IList<Solicitation> Solicitaions  {get; set;}
+    public IList<Solicitation> Solicitaions { get; set; }
+    public IList<Role> Roles { get; set; }
 }
