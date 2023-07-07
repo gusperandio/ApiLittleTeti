@@ -1,0 +1,7 @@
+C:\Users\gustavo.sperandio\Documents\github\littleTeti\obj\Debug\net7.0\littleTeti.csproj.AssemblyReference.cache
+C:\Users\gustavo.sperandio\Documents\github\littleTeti\obj\Debug\net7.0\littleTeti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.sperandio\Documents\github\littleTeti\obj\Debug\net7.0\littleTeti.AssemblyInfoInputs.cache
+C:\Users\gustavo.sperandio\Documents\github\littleTeti\obj\Debug\net7.0\littleTeti.AssemblyInfo.cs
+C:\Users\gustavo.sperandio\Documents\github\littleTeti\obj\Debug\net7.0\littleTeti.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.sperandio\Documents\github\littleTeti\obj\Debug\net7.0\littleTeti.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gustavo.sperandio\Documents\github\littleTeti\obj\Debug\net7.0\littleTeti.MvcApplicationPartsAssemblyInfo.cache
