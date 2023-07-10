@@ -10,9 +10,9 @@ public class LTDataContext : DbContext{
     }
 
     public DbSet<Address> Address {get; set;}
-    public DbSet<User> Users {get; set;}
-    public DbSet<Solicitation> Posts {get; set;}
     public DbSet<Product> Products {get; set;}
+    public DbSet<Solicitation> Solicitations {get; set;}
+    public DbSet<User> Users {get; set;}
 
 
 

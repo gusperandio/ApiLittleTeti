@@ -7,4 +7,6 @@ public class Solicitation
     public User User { get; set; }
     public IList<Product> Products { get; set; }
     public string TrackingCode { get; set; }
+
+    
 }

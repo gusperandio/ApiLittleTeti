@@ -414,7 +414,8 @@ ServiceFabricBackup/
 
 # SQL Server files
 *.ndf
-
+*/.idea
+*.idea
 # Business Intelligence projects
 *.rptproj.rsuser
 *- [Bb]ackup.rdl
